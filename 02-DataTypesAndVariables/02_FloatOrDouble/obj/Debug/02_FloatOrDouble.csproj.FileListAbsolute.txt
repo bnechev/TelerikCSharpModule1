@@ -1,0 +1,6 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\02_FloatOrDouble\bin\Debug\02_FloatOrDouble.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\02_FloatOrDouble\bin\Debug\02_FloatOrDouble.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\02_FloatOrDouble\bin\Debug\02_FloatOrDouble.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\02_FloatOrDouble\obj\Debug\02_FloatOrDouble.csprojResolveAssemblyReference.cache
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\02_FloatOrDouble\obj\Debug\02_FloatOrDouble.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\02_FloatOrDouble\obj\Debug\02_FloatOrDouble.pdb

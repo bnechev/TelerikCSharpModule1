@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\04_UnicodeCharacter\bin\Debug\04_UnicodeCharacter.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\04_UnicodeCharacter\bin\Debug\04_UnicodeCharacter.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\04_UnicodeCharacter\bin\Debug\04_UnicodeCharacter.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\04_UnicodeCharacter\obj\Debug\04_UnicodeCharacter.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\04_UnicodeCharacter\obj\Debug\04_UnicodeCharacter.pdb

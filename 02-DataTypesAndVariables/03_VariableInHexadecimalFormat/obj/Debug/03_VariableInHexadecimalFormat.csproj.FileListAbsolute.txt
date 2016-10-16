@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\03_VariableInHexadecimalFormat\bin\Debug\03_VariableInHexadecimalFormat.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\03_VariableInHexadecimalFormat\bin\Debug\03_VariableInHexadecimalFormat.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\03_VariableInHexadecimalFormat\bin\Debug\03_VariableInHexadecimalFormat.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\03_VariableInHexadecimalFormat\obj\Debug\03_VariableInHexadecimalFormat.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\03_VariableInHexadecimalFormat\obj\Debug\03_VariableInHexadecimalFormat.pdb

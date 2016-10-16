@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\08_IsoscelesTriangle\bin\Debug\08_IsoscelesTriangle.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\08_IsoscelesTriangle\bin\Debug\08_IsoscelesTriangle.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\08_IsoscelesTriangle\bin\Debug\08_IsoscelesTriangle.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\08_IsoscelesTriangle\obj\Debug\08_IsoscelesTriangle.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\08_IsoscelesTriangle\obj\Debug\08_IsoscelesTriangle.pdb

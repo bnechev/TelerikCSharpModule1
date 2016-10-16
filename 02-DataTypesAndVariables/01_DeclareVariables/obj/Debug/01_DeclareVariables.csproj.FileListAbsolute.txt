@@ -1,0 +1,1 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\01_DeclareVariables\bin\Debug\01_DeclareVariables.exe.config

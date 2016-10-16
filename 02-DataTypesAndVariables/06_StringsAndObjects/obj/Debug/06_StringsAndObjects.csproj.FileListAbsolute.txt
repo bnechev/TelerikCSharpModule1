@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\06_StringsAndObjects\bin\Debug\06_StringsAndObjects.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\06_StringsAndObjects\bin\Debug\06_StringsAndObjects.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\06_StringsAndObjects\bin\Debug\06_StringsAndObjects.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\06_StringsAndObjects\obj\Debug\06_StringsAndObjects.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\06_StringsAndObjects\obj\Debug\06_StringsAndObjects.pdb
