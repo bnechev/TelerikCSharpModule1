@@ -1,0 +1,6 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\08_SqareRoot\bin\Debug\08_SqareRoot.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\08_SqareRoot\bin\Debug\08_SqareRoot.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\08_SqareRoot\bin\Debug\08_SqareRoot.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\08_SqareRoot\obj\Debug\08_SqareRoot.csprojResolveAssemblyReference.cache
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\08_SqareRoot\obj\Debug\08_SqareRoot.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\08_SqareRoot\obj\Debug\08_SqareRoot.pdb

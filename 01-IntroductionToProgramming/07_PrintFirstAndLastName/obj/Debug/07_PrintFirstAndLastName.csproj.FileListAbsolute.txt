@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\07_PrintFirstAndLastName\bin\Debug\07_PrintFirstAndLastName.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\07_PrintFirstAndLastName\bin\Debug\07_PrintFirstAndLastName.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\07_PrintFirstAndLastName\bin\Debug\07_PrintFirstAndLastName.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\07_PrintFirstAndLastName\obj\Debug\07_PrintFirstAndLastName.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\07_PrintFirstAndLastName\obj\Debug\07_PrintFirstAndLastName.pdb
