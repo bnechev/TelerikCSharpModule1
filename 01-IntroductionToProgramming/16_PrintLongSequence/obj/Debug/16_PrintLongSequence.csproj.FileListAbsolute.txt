@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\16_PrintLongSequence\bin\Debug\16_PrintLongSequence.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\16_PrintLongSequence\bin\Debug\16_PrintLongSequence.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\16_PrintLongSequence\bin\Debug\16_PrintLongSequence.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\16_PrintLongSequence\obj\Debug\16_PrintLongSequence.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\16_PrintLongSequence\obj\Debug\16_PrintLongSequence.pdb

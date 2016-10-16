@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\09_PrintSequence\bin\Debug\09_PrintSequence.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\09_PrintSequence\bin\Debug\09_PrintSequence.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\09_PrintSequence\bin\Debug\09_PrintSequence.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\09_PrintSequence\obj\Debug\09_PrintSequence.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\09_PrintSequence\obj\Debug\09_PrintSequence.pdb

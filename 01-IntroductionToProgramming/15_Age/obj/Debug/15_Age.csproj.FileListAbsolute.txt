@@ -1,0 +1,6 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\15_Age\bin\Debug\15_Age.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\15_Age\bin\Debug\15_Age.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\15_Age\bin\Debug\15_Age.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\15_Age\obj\Debug\15_Age.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\15_Age\obj\Debug\15_Age.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\15_Age\obj\Debug\15_Age.csprojResolveAssemblyReference.cache

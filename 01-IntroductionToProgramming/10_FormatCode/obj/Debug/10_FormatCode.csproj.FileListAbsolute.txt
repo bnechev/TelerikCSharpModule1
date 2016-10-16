@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\10_FormatCode\bin\Debug\10_FormatCode.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\10_FormatCode\bin\Debug\10_FormatCode.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\10_FormatCode\bin\Debug\10_FormatCode.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\10_FormatCode\obj\Debug\10_FormatCode.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\10_FormatCode\obj\Debug\10_FormatCode.pdb

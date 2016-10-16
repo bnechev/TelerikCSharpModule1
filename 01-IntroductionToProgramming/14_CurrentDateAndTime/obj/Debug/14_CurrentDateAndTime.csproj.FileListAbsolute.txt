@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\14_CurrentDateAndTime\bin\Debug\14_CurrentDateAndTime.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\14_CurrentDateAndTime\bin\Debug\14_CurrentDateAndTime.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\14_CurrentDateAndTime\bin\Debug\14_CurrentDateAndTime.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\14_CurrentDateAndTime\obj\Debug\14_CurrentDateAndTime.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\01-IntroductionToProgramming\14_CurrentDateAndTime\obj\Debug\14_CurrentDateAndTime.pdb
