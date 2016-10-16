@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\10_EmployeeData\bin\Debug\10_EmployeeData.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\10_EmployeeData\bin\Debug\10_EmployeeData.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\10_EmployeeData\bin\Debug\10_EmployeeData.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\10_EmployeeData\obj\Debug\10_EmployeeData.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\10_EmployeeData\obj\Debug\10_EmployeeData.pdb

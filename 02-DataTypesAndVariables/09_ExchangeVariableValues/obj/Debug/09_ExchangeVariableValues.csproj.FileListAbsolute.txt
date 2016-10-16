@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\09_ExchangeVariableValues\bin\Debug\09_ExchangeVariableValues.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\09_ExchangeVariableValues\bin\Debug\09_ExchangeVariableValues.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\09_ExchangeVariableValues\bin\Debug\09_ExchangeVariableValues.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\09_ExchangeVariableValues\obj\Debug\09_ExchangeVariableValues.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\09_ExchangeVariableValues\obj\Debug\09_ExchangeVariableValues.pdb

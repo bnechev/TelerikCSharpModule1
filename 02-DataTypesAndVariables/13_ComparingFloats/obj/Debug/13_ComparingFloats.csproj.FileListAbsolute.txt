@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\13_ComparingFloats\bin\Debug\13_ComparingFloats.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\13_ComparingFloats\bin\Debug\13_ComparingFloats.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\13_ComparingFloats\bin\Debug\13_ComparingFloats.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\13_ComparingFloats\obj\Debug\13_ComparingFloats.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\13_ComparingFloats\obj\Debug\13_ComparingFloats.pdb

@@ -1,0 +1,6 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\15_LookLikeAHacker\bin\Debug\15_LookLikeAHacker.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\15_LookLikeAHacker\bin\Debug\15_LookLikeAHacker.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\15_LookLikeAHacker\bin\Debug\15_LookLikeAHacker.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\15_LookLikeAHacker\obj\Debug\15_LookLikeAHacker.csprojResolveAssemblyReference.cache
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\15_LookLikeAHacker\obj\Debug\15_LookLikeAHacker.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\02-DataTypesAndVariables\15_LookLikeAHacker\obj\Debug\15_LookLikeAHacker.pdb
