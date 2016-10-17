@@ -1,0 +1,6 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\13_ModifyBit\bin\Debug\13_ModifyBit.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\13_ModifyBit\bin\Debug\13_ModifyBit.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\13_ModifyBit\bin\Debug\13_ModifyBit.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\13_ModifyBit\obj\Debug\13_ModifyBit.csprojResolveAssemblyReference.cache
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\13_ModifyBit\obj\Debug\13_ModifyBit.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\13_ModifyBit\obj\Debug\13_ModifyBit.pdb

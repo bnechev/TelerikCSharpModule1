@@ -1,0 +1,6 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\15-BitSwap\bin\Debug\15-BitSwap.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\15-BitSwap\bin\Debug\15-BitSwap.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\15-BitSwap\bin\Debug\15-BitSwap.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\15-BitSwap\obj\Debug\15-BitSwap.csprojResolveAssemblyReference.cache
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\15-BitSwap\obj\Debug\15-BitSwap.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\15-BitSwap\obj\Debug\15-BitSwap.pdb
