@@ -1,0 +1,6 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\01-OddOrEven\bin\Debug\01-OddOrEven.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\01-OddOrEven\bin\Debug\01-OddOrEven.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\01-OddOrEven\bin\Debug\01-OddOrEven.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\01-OddOrEven\obj\Debug\01-OddOrEven.csprojResolveAssemblyReference.cache
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\01-OddOrEven\obj\Debug\01-OddOrEven.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\01-OddOrEven\obj\Debug\01-OddOrEven.pdb

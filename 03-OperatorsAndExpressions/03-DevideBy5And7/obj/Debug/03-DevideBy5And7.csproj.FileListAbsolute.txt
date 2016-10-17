@@ -1,0 +1,1 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\03-DevideBy5And7\bin\Debug\03-DevideBy5And7.exe.config

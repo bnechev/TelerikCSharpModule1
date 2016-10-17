@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\02-MoonGravity\bin\Debug\02-MoonGravity.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\02-MoonGravity\bin\Debug\02-MoonGravity.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\02-MoonGravity\bin\Debug\02-MoonGravity.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\02-MoonGravity\obj\Debug\02-MoonGravity.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\02-MoonGravity\obj\Debug\02-MoonGravity.pdb
