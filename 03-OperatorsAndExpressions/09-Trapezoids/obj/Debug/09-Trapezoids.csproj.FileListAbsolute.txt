@@ -1,0 +1,1 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\09-Trapezoids\bin\Debug\09-Trapezoids.exe.config

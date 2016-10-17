@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\07-PointInACircle\bin\Debug\07-PointInACircle.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\07-PointInACircle\bin\Debug\07-PointInACircle.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\07-PointInACircle\bin\Debug\07-PointInACircle.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\07-PointInACircle\obj\Debug\07-PointInACircle.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\07-PointInACircle\obj\Debug\07-PointInACircle.pdb

@@ -1,0 +1,6 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\11-ThirdBit\bin\Debug\11-ThirdBit.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\11-ThirdBit\bin\Debug\11-ThirdBit.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\11-ThirdBit\bin\Debug\11-ThirdBit.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\11-ThirdBit\obj\Debug\11-ThirdBit.csprojResolveAssemblyReference.cache
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\11-ThirdBit\obj\Debug\11-ThirdBit.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\11-ThirdBit\obj\Debug\11-ThirdBit.pdb

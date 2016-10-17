@@ -1,0 +1,5 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\08-PrimeCheck\bin\Debug\08-PrimeCheck.exe.config
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\08-PrimeCheck\bin\Debug\08-PrimeCheck.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\08-PrimeCheck\bin\Debug\08-PrimeCheck.pdb
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\08-PrimeCheck\obj\Debug\08-PrimeCheck.exe
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\08-PrimeCheck\obj\Debug\08-PrimeCheck.pdb

@@ -1,0 +1,1 @@
+D:\09_PROGRAMMING\Telerik\C-Sharp\03-OperatorsAndExpressions\03-OperatorsAndExpressions\10-PointCircleRectangle\bin\Debug\10-PointCircleRectangle.exe.config
